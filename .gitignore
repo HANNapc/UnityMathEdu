@@ -1,0 +1,31 @@
+# Unity standard
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+UserSettings/
+MemoryCaptures/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Firebase (bỏ toàn bộ)
+Assets/Firebase/
+Assets/Plugins/Editor/Google/
+
+# macOS files
+.DS_Store
+
+# Visual Studio / Rider
+.vscode/
+.idea/

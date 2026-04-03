@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KLTN\\My project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\KLTN\\My project\\Assets\\Script_zoombie\\ManagerGamer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script_zoombie\\ManagerGamer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\KLTN\\My project\\Assets\\Script_zoombie\\UIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script_zoombie\\UIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\KLTN\\My project\\Assets\\Codedk\\Formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Codedk\\Formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\KLTN\\My project\\Assets\\Menu_Script\\LoadScenes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Menu_Script\\LoadScenes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\KLTN\\My project\\Assets\\FirebaseManager\\FirebaseManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\FirebaseManager\\FirebaseManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Formlogin.cs",
+              "DocumentMoniker": "D:\\KLTN\\My project\\Assets\\Codedk\\Formlogin.cs",
+              "RelativeDocumentMoniker": "Assets\\Codedk\\Formlogin.cs",
+              "ToolTip": "D:\\KLTN\\My project\\Assets\\Codedk\\Formlogin.cs",
+              "RelativeToolTip": "Assets\\Codedk\\Formlogin.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAAAKsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T09:51:41.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FirebaseManager.cs",
+              "DocumentMoniker": "D:\\KLTN\\My project\\Assets\\FirebaseManager\\FirebaseManager.cs",
+              "RelativeDocumentMoniker": "Assets\\FirebaseManager\\FirebaseManager.cs",
+              "ToolTip": "D:\\KLTN\\My project\\Assets\\FirebaseManager\\FirebaseManager.cs",
+              "RelativeToolTip": "Assets\\FirebaseManager\\FirebaseManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T09:48:11.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoadScenes.cs",
+              "DocumentMoniker": "D:\\KLTN\\My project\\Assets\\Menu_Script\\LoadScenes.cs",
+              "RelativeDocumentMoniker": "Assets\\Menu_Script\\LoadScenes.cs",
+              "ToolTip": "D:\\KLTN\\My project\\Assets\\Menu_Script\\LoadScenes.cs",
+              "RelativeToolTip": "Assets\\Menu_Script\\LoadScenes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T09:26:24.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManagerGamer.cs",
+              "DocumentMoniker": "D:\\KLTN\\My project\\Assets\\Script_zoombie\\ManagerGamer.cs",
+              "RelativeDocumentMoniker": "Assets\\Script_zoombie\\ManagerGamer.cs",
+              "ToolTip": "D:\\KLTN\\My project\\Assets\\Script_zoombie\\ManagerGamer.cs",
+              "RelativeToolTip": "Assets\\Script_zoombie\\ManagerGamer.cs",
+              "ViewState": "AgIAAEIBAAAAAAAAAAAswFIBAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T08:26:50.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "D:\\KLTN\\My project\\Assets\\Script_zoombie\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script_zoombie\\UIManager.cs",
+              "ToolTip": "D:\\KLTN\\My project\\Assets\\Script_zoombie\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Script_zoombie\\UIManager.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAAAKoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T08:23:59.552Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "667789737024",
+    "firebase_url": "https://mathedu-29bcd-default-rtdb.firebaseio.com",
+    "project_id": "mathedu-29bcd",
+    "storage_bucket": "mathedu-29bcd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667789737024:android:2ea09006154f87ac6ef3a5",
+        "android_client_info": {
+          "package_name": "com.company.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALrDW_n7UMW-e_g0Rl0NY3-_TplgjuvuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667789737024:android:ac784ac1668ee6f26ef3a5",
+        "android_client_info": {
+          "package_name": "com.company.myappunity1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALrDW_n7UMW-e_g0Rl0NY3-_TplgjuvuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

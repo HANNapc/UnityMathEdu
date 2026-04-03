@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KLTN\\My project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\KLTN\\My project\\Assets\\Codedk\\Formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Codedk\\Formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\KLTN\\My project\\Assets\\Menu_Script\\LevelMenuFirestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Menu_Script\\LevelMenuFirestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\KLTN\\My project\\Assets\\Codedk\\Flash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Codedk\\Flash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\KLTN\\My project\\Assets\\Menu_Script\\LoadScenes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Menu_Script\\LoadScenes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\KLTN\\My project\\Assets\\Codedk\\AuthManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Codedk\\AuthManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\KLTN\\My project\\Assets\\Codedk\\Formdk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Codedk\\Formdk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\KLTN\\My project\\Assets\\FirebaseManager\\FirebaseManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\FirebaseManager\\FirebaseManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\KLTN\\My project\\Assets\\Menu_Script\\LessonItemUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Menu_Script\\LessonItemUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Formlogin.cs",
+              "DocumentMoniker": "D:\\KLTN\\My project\\Assets\\Codedk\\Formlogin.cs",
+              "RelativeDocumentMoniker": "Assets\\Codedk\\Formlogin.cs",
+              "ToolTip": "D:\\KLTN\\My project\\Assets\\Codedk\\Formlogin.cs",
+              "RelativeToolTip": "Assets\\Codedk\\Formlogin.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAwwKUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T07:33:48.515Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LevelMenuFirestore.cs",
+              "DocumentMoniker": "D:\\KLTN\\My project\\Assets\\Menu_Script\\LevelMenuFirestore.cs",
+              "RelativeDocumentMoniker": "Assets\\Menu_Script\\LevelMenuFirestore.cs",
+              "ToolTip": "D:\\KLTN\\My project\\Assets\\Menu_Script\\LevelMenuFirestore.cs",
+              "RelativeToolTip": "Assets\\Menu_Script\\LevelMenuFirestore.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAcwFoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T17:15:48.138Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthManager.cs",
+              "DocumentMoniker": "D:\\KLTN\\My project\\Assets\\Codedk\\AuthManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Codedk\\AuthManager.cs",
+              "ToolTip": "D:\\KLTN\\My project\\Assets\\Codedk\\AuthManager.cs",
+              "RelativeToolTip": "Assets\\Codedk\\AuthManager.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAcwEgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T01:45:16.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FirebaseManager.cs",
+              "DocumentMoniker": "D:\\KLTN\\My project\\Assets\\FirebaseManager\\FirebaseManager.cs",
+              "RelativeDocumentMoniker": "Assets\\FirebaseManager\\FirebaseManager.cs",
+              "ToolTip": "D:\\KLTN\\My project\\Assets\\FirebaseManager\\FirebaseManager.cs",
+              "RelativeToolTip": "Assets\\FirebaseManager\\FirebaseManager.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T01:18:37.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LessonItemUI.cs",
+              "DocumentMoniker": "D:\\KLTN\\My project\\Assets\\Menu_Script\\LessonItemUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Menu_Script\\LessonItemUI.cs",
+              "ToolTip": "D:\\KLTN\\My project\\Assets\\Menu_Script\\LessonItemUI.cs",
+              "RelativeToolTip": "Assets\\Menu_Script\\LessonItemUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T17:15:58.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Flash.cs",
+              "DocumentMoniker": "D:\\KLTN\\My project\\Assets\\Codedk\\Flash.cs",
+              "RelativeDocumentMoniker": "Assets\\Codedk\\Flash.cs",
+              "ToolTip": "D:\\KLTN\\My project\\Assets\\Codedk\\Flash.cs",
+              "RelativeToolTip": "Assets\\Codedk\\Flash.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T01:39:51.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Formdk.cs",
+              "DocumentMoniker": "D:\\KLTN\\My project\\Assets\\Codedk\\Formdk.cs",
+              "RelativeDocumentMoniker": "Assets\\Codedk\\Formdk.cs",
+              "ToolTip": "D:\\KLTN\\My project\\Assets\\Codedk\\Formdk.cs",
+              "RelativeToolTip": "Assets\\Codedk\\Formdk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T07:35:57.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoadScenes.cs",
+              "DocumentMoniker": "D:\\KLTN\\My project\\Assets\\Menu_Script\\LoadScenes.cs",
+              "RelativeDocumentMoniker": "Assets\\Menu_Script\\LoadScenes.cs",
+              "ToolTip": "D:\\KLTN\\My project\\Assets\\Menu_Script\\LoadScenes.cs",
+              "RelativeToolTip": "Assets\\Menu_Script\\LoadScenes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T17:12:16.396Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
